@@ -1,0 +1,13 @@
+# Temporary files
+*~
+
+# Python
+*.pyc
+
+## .idea files, temporary from IDEs
+.idea/
+
+# Debug files
+dbg_*
+
+build
